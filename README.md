@@ -1,16 +1,17 @@
-## Hi there 👋
+# README
 
-<!--
-**ruwan9672/ruwan9672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
 
-Here are some ideas to get you started:
+**Name:** Ruwan Chaminda  
+**Age:** 21  
+**Major:** Software Engineering (Undergraduate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hello! My name is Ruwan Chaminda. I am a 21-year-old Software Engineering undergraduate with an interest in learning programming, software development, and modern technologies. I am currently focused on building my knowledge and skills in the field of software engineering.
+
+## Goals
+
+- Improve my programming skills
+- Learn modern software development practices
+- Build useful and impactful software projects
